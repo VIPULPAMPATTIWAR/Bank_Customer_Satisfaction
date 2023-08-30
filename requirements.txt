@@ -1,0 +1,12 @@
+pandas
+numPy
+matplotlib
+seaborn
+tensorflow
+scikit-learn
+imbalanced-learn
+collection
+imblearn
+dill
+flask
+-e .
